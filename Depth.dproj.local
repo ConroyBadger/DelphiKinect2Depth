@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2016/12/28 20:07:03.182,=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/12/28 20:08:14.148,C:\Git\Projects\Kinect2Depth\Delphi\Depth\Main.pas=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit4.pas</Transaction>
+    <Transaction>2016/12/28 20:08:14.148,C:\Git\Projects\Kinect2Depth\Delphi\Depth\Main.dfm=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Unit4.dfm</Transaction>
+    <Transaction>2016/12/28 20:08:20.143,C:\Git\Projects\Kinect2Depth\Delphi\Depth\Depth.dproj=C:\Users\cb\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2016/12/28 22:00:53.868,=C:\Git\Projects\Kinect2Depth\Delphi\Depth\Kinect2Dll.pas</Transaction>
+    <Transaction>2016/12/28 22:00:53.870,=C:\Git\Projects\Kinect2Depth\Delphi\Depth\Kinect2U.pas</Transaction>
+    <Transaction>2016/12/28 22:19:15.520,=C:\Git\Projects\Kinect2Depth\Delphi\Depth\Global.pas</Transaction>
+  </Transactions>
+</BorlandProject>
