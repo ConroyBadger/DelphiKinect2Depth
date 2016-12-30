@@ -13,6 +13,10 @@ An exe is included. Just run Depth.exe making sure its in the same folder as Kin
 
 A screen shot, Screen.png is included. You can set the min and max range of the depth. The pixels are shaded blue relative to their depth between these ranges. There is also a readout of the depth where the mouse cursor is.
 
+The source for the DLL can be found at:
+
+https://github.com/ConroyBadger/Kinect2DLL
+
 
 
 
