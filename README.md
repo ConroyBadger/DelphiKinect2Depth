@@ -17,6 +17,10 @@ The source for the DLL can be found at:
 
 https://github.com/ConroyBadger/Kinect2DLL
 
+Special thanks to antimodular.inc where I worked while writing this code. They have generously allowed it into the public domain.
+
+http://lozano-hemmer.com/
+
 
 
 
