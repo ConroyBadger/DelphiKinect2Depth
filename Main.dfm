@@ -64,9 +64,6 @@ object MainFrm: TMainFrm
       item
         Width = 50
       end>
-    ExplicitLeft = 328
-    ExplicitTop = 160
-    ExplicitWidth = 0
   end
   object Panel4: TPanel
     Left = 8
