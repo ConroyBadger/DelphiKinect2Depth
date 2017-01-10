@@ -17,6 +17,13 @@ The source for the DLL can be found at:
 
 https://github.com/ConroyBadger/Kinect2DLL
 
+The DLL was compiled with the Visual Studio 2013. If you are using a different
+Visual Studio runtime redistributable you may need to rebuild the QT project.
+
+You can get QT here:
+
+https://www.qt.io/download/
+
 Special thanks to antimodular.inc where I worked while writing this code. They have generously allowed it into the public domain.
 
 http://lozano-hemmer.com/
